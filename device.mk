@@ -163,7 +163,7 @@ PRODUCT_PACKAGES += \
     camera.hammerhead \
     mm-jpeg-interface-test \
     mm-qcamera-app \
-    Snap
+    Camero
 
 PRODUCT_PACKAGES += \
     keystore.msm8974
@@ -172,12 +172,8 @@ PRODUCT_PACKAGES += \
     power.msm8974
 
 # Doze mode
-PRODUCT_PACKAGES += \
-    HammerheadDoze
-
-# Gello
-PRODUCT_PACKAGES += \
-    Gello
+#PRODUCT_PACKAGES += \
+    #HammerheadDoze
 
 # GPS configuration
 PRODUCT_COPY_FILES += \
