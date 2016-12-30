@@ -1,20 +1,20 @@
 [
-    {
-        "repository":   "android_kernel_lge_hammerhead",
-        "target_path":  "kernel/lge/hammerhead",
-        "branch":       "cm-14.1",
-		"remote":       "cm"
-    },
-    {
-        "repository":   "proprietary_vendor_lge",
-        "target_path":  "vendor/lge",
-        "branch":       "n7.1",
-		"remote":       "aicp"
-    },
-    {
-        "repository":   "android_packages_resources_devicesettings",
-        "target_path":  "packages/resources/devicesettings",
-        "branch":       "cm-14.1",
-		"remote":       "cm"
-    }
+  {
+    "repository":   "kernel_lge_hammerhead",
+    "target_path":  "kernel/lge/hammerhead",
+    "branch":       "n7.1",
+    "remote":       "aoscp"
+  },
+  {
+    "repository":   "proprietary_vendor_lge",
+    "target_path":  "vendor/lge",
+    "branch":       "n7.1",
+	"remote":       "aoscp"
+  },
+  {
+    "repository":   "android_packages_resources_devicesettings",
+    "target_path":  "packages/resources/devicesettings",
+    "branch":       "cm-14.1",
+    "remote":       "cm"
+  }
 ]
