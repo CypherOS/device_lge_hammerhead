@@ -12,9 +12,9 @@
 	"remote":       "aoscp"
   },
   {
-    "repository":   "android_packages_resources_devicesettings",
-    "target_path":  "packages/resources/devicesettings",
-    "branch":       "cm-14.1",
-    "remote":       "cm"
+    "repository":   "android_packages_resources_Translato",
+    "target_path":  "packages/resources/Translato",
+    "branch":       "nougat-mr1",
+    "remote":       "aoscp"
   }
 ]
