@@ -2,19 +2,13 @@
   {
     "repository":   "kernel_lge_hammerhead",
     "target_path":  "kernel/lge/hammerhead",
-    "branch":       "nougat-mr1",
+    "branch":       "nougat-mr2",
     "remote":       "aoscp"
   },
   {
     "repository":   "proprietary_vendor_lge",
     "target_path":  "vendor/lge",
-    "branch":       "nougat-mr1",
+    "branch":       "nougat-mr2",
 	"remote":       "aoscp"
-  },
-  {
-    "repository":   "android_packages_resources_Translato",
-    "target_path":  "packages/resources/Translato",
-    "branch":       "nougat-mr1",
-    "remote":       "aoscp"
   }
 ]

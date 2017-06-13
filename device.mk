@@ -162,18 +162,13 @@ PRODUCT_PACKAGES += \
     libmmjpeg_interface \
     camera.hammerhead \
     mm-jpeg-interface-test \
-    mm-qcamera-app \
-    Camero
+    mm-qcamera-app
 
 PRODUCT_PACKAGES += \
     keystore.msm8974
 
 PRODUCT_PACKAGES += \
     power.msm8974
-
-# Doze mode
-#PRODUCT_PACKAGES += \
-    #HammerheadDoze
 
 # GPS configuration
 PRODUCT_COPY_FILES += \

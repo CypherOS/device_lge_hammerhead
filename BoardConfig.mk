@@ -147,10 +147,6 @@ ifeq ($(USE_SVELTE_KERNEL),true)
 MALLOC_SVELTE := true
 endif
 
-# Hardware
-BOARD_USES_CYANOGEN_HARDWARE := true
-BOARD_HARDWARE_CLASS := hardware/cyanogen/cmhw
-
 # Recovery
 RECOVERY_FSTAB_VERSION := 2
 BOARD_HAS_NO_SELECT_BUTTON := true
